@@ -5,6 +5,7 @@
 ## Setup
 
 You will need to run mysql database locally: [mysql.com](http://mysql.com)
+
 After your database is set up, in your mysql console run contents of [./backend/mysql/init.sql](./backend/mysql/init.sql) file
 
 ## To Run Project
