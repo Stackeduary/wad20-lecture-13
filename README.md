@@ -1,6 +1,6 @@
 # Sample Project 
 
-### with Vue.js frontend and Node.js backend with JWT authentication
+### Using Vue.js frontend and Node.js backend with JWT authentication
 
 ## Setup
 
