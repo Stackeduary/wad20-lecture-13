@@ -1,6 +1,6 @@
-## Sample Project 
+# Sample Project 
 
-# with Vue.js frontend and Node.js backend with JWT authentication
+### with Vue.js frontend and Node.js backend with JWT authentication
 
 ## Setup
 
@@ -9,11 +9,17 @@ After your database is set up, in your mysql console run contents of [./backend/
 
 ## To Run Project
 
-# Backend
+### Backend
     cd backend
+    
     npm install
+    
     npm start
-# Frontend
+    
+### Frontend
+
     cd frontend
+    
     npm install
+    
     npm run serve
